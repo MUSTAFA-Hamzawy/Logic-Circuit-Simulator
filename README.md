@@ -31,8 +31,9 @@ This is a simple logic circuit designer/simulator implemented in C++ code, this 
   <p align="right">(<a href="#top">back to top</a>)</p>
  </div>
 
-<!-- 
+
 <!-- Contributors -->
+<!-- 
 # Contributors
 <table id="Contributors">
   <tr>
